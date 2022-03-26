@@ -1,12 +1,12 @@
 START = """
-Hey {user}
+👋 Hey {user}
 
-Welcome to {bot}
+Welcome to **All Masseges Deleting Bot*🔰
 
 I can help you to delete all messages in your group.
-Use below buttons to learn more.
+Use below buttons to learn more 💁‍♂️.
 
-By @StarkBots
+By @szteambots
 """
 
 HELP = """
@@ -24,13 +24,13 @@ ABOUT = """
 
 A telegram bot to delete all messages
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/DeleteAllBot)
+Support 🌝: [Click Here](https://t.me/slbotzone)
 
-Framework : [Pyrogram](docs.pyrogram.org)
+Framework ✔: [Pyrogram](docs.pyrogram.org)
 
-Language : [Python](www.python.org)
+Language ✅ : [Python](www.python.org)
 
-Developer : @StarkProgrammer
+Developer 👨‍💻 : [MR.Oshe](https://t.me/Oshebrosl1)
 """
 
 BUTTONS = True
